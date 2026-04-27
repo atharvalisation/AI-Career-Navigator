@@ -141,6 +141,7 @@ Suggestions:
 
 ## Skill and Career Matches
 <img width="1825" height="975" alt="image" src="https://github.com/user-attachments/assets/12760263-6af3-4b3e-85c0-eb83e9ea66a1" />
+
 <img width="1796" height="939" alt="image" src="https://github.com/user-attachments/assets/ccc5fc7c-306b-483d-894d-cdaa0319b219" />
 
 ## AI Reasoning
